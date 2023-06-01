@@ -2,6 +2,21 @@
 
 - [이펙티브 자바 Effective Java 3/E](http://www.yes24.com/Product/Goods/65551284)
 
+## 👋 member 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><img src="https://avatars.githubusercontent.com/yess98" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/pushedrumex"><img src="https://avatars.githubusercontent.com/pushedrumex" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/hoiae"><img src="https://avatars.githubusercontent.com/june1010" width="150px;" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/yess98"><b>양은서</b></td>
+    <td align="center"><a href="https://github.com/pushedrumex"><b>김민정</b></td>
+    <td align="center"><a href="https://github.com/june1010"><b>정석준</b></td>
+  </tr>
+</table>
+        
 ## 🔏 Rule
 
 1. 아이템 개수
