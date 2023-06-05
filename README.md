@@ -5,9 +5,9 @@
 ## 👋 member 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><img src="https://avatars.githubusercontent.com/yess98" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/yess98"><img src="https://avatars.githubusercontent.com/yess98" width="150px;" alt="">
     <td align="center"><a href="https://github.com/pushedrumex"><img src="https://avatars.githubusercontent.com/pushedrumex" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/hoiae"><img src="https://avatars.githubusercontent.com/june1010" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/june1010"><img src="https://avatars.githubusercontent.com/june1010" width="150px;" alt="">
     </td>
   </tr>
   <tr>
